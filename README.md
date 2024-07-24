@@ -1,6 +1,7 @@
 
 ### House Price Prediction 🏡💹
-![image](https://github.com/user-attachments/assets/99903c9c-8199-43f6-a99a-cb5c1a1170f0)
+![image](https://github.com/user-attachments/assets/e4e55859-7ae7-44db-98b1-1fcaf79fcf9e)
+
 
 
 #### Data Acquisition and Profiling 📊
